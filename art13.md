@@ -1,4 +1,4 @@
-## Article 13 Use of protected content by information society service providers storing and giving access to large amounts of works and other subject-matter
+## Article 13 Use of protected content by information society service providers storing and giving access to works and other subject-matter
 
 1. Where information society service providers offer users content storage services and provide the public with access to content and where such activity is not eligible for the liability exemptions provided for in Directive 2000/31/EC, they shall take appropriate and proportionate measures to ensure the functioning of licensing agreements concluded with rightholders. The implementation of such agreements shall respect the fundamental rights of users and shall not impose a general obligation on information society service providers to monitor the information which they transmit or store, in accordance with Article 15 of Directive 2000/31/EC.
 
@@ -8,4 +8,4 @@
 
     2a. Member States shall ensure that users have access to a court or another competent authority for the purpose of asserting their right of use under an exception or limitation and to appeal any restrictive measures agreed upon pursuant to paragraph 3.
 
-3. Member States shall facilitate, where appropriate, the cooperation between the information society service providers referred to in paragraph 1, user representatives and rightholders through stakeholder dialogues to define best practices for the implementation of paragraph 1. The measures undertaken shall be appropriate and proportionate and shall take into account, among others, the nature of the services, the availability of the technologies and their effectiveness in light of technological developments. 
+3. Member States shall facilitate, where appropriate, the cooperation between the information society service providers referred to in paragraph 1, user representatives and rightholders through stakeholder dialogues to define best practices for the implementation of paragraph 1. The measures undertaken shall be appropriate and proportionate and shall take into account, among others, the nature of the services, the availability of the technologies and their effectiveness in light of technological developments.
